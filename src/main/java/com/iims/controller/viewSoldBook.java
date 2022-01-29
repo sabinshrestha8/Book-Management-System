@@ -19,10 +19,7 @@ public class viewSoldBook extends HttpServlet {
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
-        System.out.println("HI");
-
         SoldBookDao soldBookDao = new SoldBookDaoImpl();
-
 
         try {
             request.setAttribute("soldBooks", soldBookDao.show());

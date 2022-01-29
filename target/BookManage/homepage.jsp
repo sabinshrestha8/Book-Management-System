@@ -6,6 +6,7 @@
     <div class="btn-wrap d-flex flex-row-reverse">
         <a href="add" class="btn btn-primary btn-sm">Add a Book</a>
         <a href="customer" class="btn btn-secondary btn-sm mx-2">View Customer</a>
+        <a href="sold-book" class="btn btn-warning btn-sm">View Sales History</a>
     </div>
     <table class="table">
         <thead>
