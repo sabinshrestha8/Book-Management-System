@@ -12,24 +12,16 @@
             <th class="text-center">Id</th>
             <th class="text-center">Name</th>
             <th class="text-center">Contact</th>
-            <th class="text-center">Action</th>
         </tr>
         </thead>
         <tbody>
 
-        <%
-            System.out.println(request.getAttribute("customers"));
-        %>
 
         <c:forEach items="${customers}" var="customer" >
             <tr>
                 <td class="text-center">${customer.id}</td>
                 <td class="text-center">${customer.name}</td>
                 <td class="text-center">${customer.contact}</td>
-                <td align="center">
-                    <a href="update?id=${customer.id}" class="btn btn-success btn-sm">Edit</a>
-                    <a href="delete?id=${customer.id}" class="btn btn-danger btn-sm">Delete</a>
-                </td>
             </tr>
         </c:forEach>
         </tbody>
