@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/CustomerView/addCustomer.jsp" value="file://$PROJECT_DIR$/src/main/webapp/CustomerView" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/add.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/customer/updateCustomer.jsp" value="file://$PROJECT_DIR$/src/main/webapp/customer" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/homepage.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/saleBook.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/sold book/saleBook.jsp" value="file://$PROJECT_DIR$/src/main/webapp/sold book" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/soldBook/saleBook.jsp" value="file://$PROJECT_DIR$/src/main/webapp/soldBook" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/soldbook/saleBook.jsp" value="file://$PROJECT_DIR$/src/main/webapp/soldbook" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/soldbook/viewSoldBook.jsp" value="file://$PROJECT_DIR$/src/main/webapp/soldbook" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/templates/header.jsp" value="file://$PROJECT_DIR$/src/main/webapp/templates" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/update.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>
